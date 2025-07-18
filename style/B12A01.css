@@ -200,6 +200,7 @@ main{
     align-items: center;
     justify-content: space-between;
     margin: 92px 150px 14px 150px;
+;
     
 }
 .section-5-title{
@@ -223,7 +224,7 @@ form input, form textarea{
     border: 1px solid #D6DDED;
     padding: 20px 32px;
     border-radius: 10px;
-    width: 78%;
+    width: 100%;
 }
 .width{
     width: 100%;
