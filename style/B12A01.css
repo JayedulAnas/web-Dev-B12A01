@@ -51,8 +51,10 @@ nav{
 /* dav heading */
 .heading-content{
     text-align: center;
+   
     width: 905px;
-    padding: 158px 265px 150px 265px;
+    padding: 158px 200px;
+   
 }
 .heading-title{
     color: #252432;
