@@ -252,5 +252,10 @@ footer{
 .content{
     display: flex;
     justify-content: space-around;
+   
+}
+.none{
+    color: #8987A1;
+    text-decoration: none;
 }
 
